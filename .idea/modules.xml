@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/gmall0218-common/gmall0218-common.iml" filepath="$PROJECT_DIR$/gmall0218-common/gmall0218-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0218-logger/gmall0218-logger.iml" filepath="$PROJECT_DIR$/gmall0218-logger/gmall0218-logger.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall0218-mock/gmall0218-mock.iml" filepath="$PROJECT_DIR$/gmall0218-mock/gmall0218-mock.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/gmall0218-parent.iml" filepath="$PROJECT_DIR$/.idea/gmall0218-parent.iml" />
     </modules>

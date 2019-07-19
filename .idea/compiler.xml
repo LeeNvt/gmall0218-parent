@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="gmall0218-common" />
+        <module name="gmall0218-logger" />
         <module name="gmall0218-mock" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="gmall0218-common" target="1.8" />
+      <module name="gmall0218-logger" target="1.8" />
       <module name="gmall0218-mock" target="1.8" />
       <module name="gmall0218-parent" target="1.8" />
     </bytecodeTargetLevel>
